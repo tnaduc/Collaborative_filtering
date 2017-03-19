@@ -15,11 +15,10 @@ We will get to understand collaborative filers and construct several models: a l
 Through this project, we also get to understand the idea of *embedding* that appears frequently in NLP context. This idea is very important as it enables us continue exploring *word embedding* in various deep learning problems for NLP. Lastly, as we will have multiple inputs (users and movies), we will explore Keras's functional API which allows us to merge multiple inputs easier than Sequential API.
 
 # Detail notebook
-Complete project can be found here.
-[here](https://github.com/tnaduc/Collaborative_filtering/blob/master/Collaborative%20filter%20for%20movie%20recommendation.ipynb)
+Complete project with detailed explaination and work examples can be found [here](https://github.com/tnaduc/Collaborative_filtering/blob/master/Collaborative%20filter%20for%20movie%20recommendation.ipynb).
 
 # Sources
 
-Collaborative filter is covered in Prof. Andrew Ng's famous [course](https://www.coursera.org/learn/machine-learning) on machine learning
+Collaborative filter is covered in Prof. Andrew Ng's famous [course](https://www.coursera.org/learn/machine-learning) on machine learning.
 
 Jerremy Howard also covered briefly in his fantastic Deep Learning [course](http://course.fast.ai) and, in fact, most of the insights from this project are learned, adapted, and inspired from Jerremy's lessons.
