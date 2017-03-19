@@ -15,7 +15,7 @@ We use movielens [datasets](http://files.grouplens.org/datasets/movielens/ml-20m
 
 # Tools
 
-- Python 2.7 with Pandas, Numpy, Theano, Keras, sklearn, matplotlib
+- Python 2.7 with Pandas, Numpy, Theano/Tensorflow, Keras, sklearn, matplotlib
 
 - AWS: EC2 t2.xlarge instance (I found no different when using p2.xlarge for this project)
 
