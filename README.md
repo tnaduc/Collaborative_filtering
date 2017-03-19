@@ -11,7 +11,7 @@ By [definition](https://en.wikipedia.org/wiki/Collaborative_filtering):
 
 # Data
 
-We use movielens [datasets](http://files.grouplens.org/datasets/movielens/ml-20m.zip). In particular, we will a small [100000 dataset ](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip) for quick protyping and experimenting.
+We use movielens [datasets](http://files.grouplens.org/datasets/movielens/ml-20m.zip). In particular, we will use a small [100000 dataset ](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip) for quick protyping and experimenting.
 
 # Tools
 
@@ -21,7 +21,7 @@ We use movielens [datasets](http://files.grouplens.org/datasets/movielens/ml-20m
 
 
 # Learning objectives
-We will get to understand collaborative filers and construct several models: a linear filter and a simple neural network.
+We will get to understand collaborative filters and construct several models: a linear filter and a simple neural network.
 
 Through this project, we also get to understand the idea of *embedding* that appears frequently in natural language processing context. This idea is very important as it enables us continue exploring *word embedding* in various deep learning problems for NLP. Lastly, as we will have multiple inputs (users and movies), we will explore Keras's functional API which allows us to merge multiple inputs to model much easier than Sequential API.
 
