@@ -9,6 +9,17 @@ By [definition](https://en.wikipedia.org/wiki/Collaborative_filtering):
 
 **Collaborative filtering is a method of making automatic predictions (filtering) about the interests of a user by collecting preferences or taste information from many users (collaborating)**
 
+# Data
+
+We use movielens [datasets](http://files.grouplens.org/datasets/movielens/ml-20m.zip). In particular, we will a small [100000 dataset ](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip) for quick protyping and experimenting.
+
+# Tools
+
+- Python 2.7 with Pandas, Numpy, Theano, Keras, sklearn, matplotlib
+
+- AWS: EC2 t2.xlarge instance (I found no different when using p2.xlarge for this project)
+
+
 # Learning objectives
 We will get to understand collaborative filers and construct several models: a linear filter and a simple neural network.
 
