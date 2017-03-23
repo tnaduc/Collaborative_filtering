@@ -32,4 +32,4 @@ Complete project with detailed explaination and work examples can be found [here
 
 Collaborative filter is covered in Prof. Andrew Ng's famous [course](https://www.coursera.org/learn/machine-learning) on machine learning.
 
-
+Jerremy Howard also covered briefly in his fantastic Deep Learning [course](http://course.fast.ai) and, in fact, most of the insights from this project are learned, adapted, and inspired from Jerremy's lessons.
